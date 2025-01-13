@@ -1,0 +1,63 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<h1>ADITHYAN</h1>
+<p>Software Developer</p>
+<section id="about">
+<h2>About Me</h2>
+<p>"I am a Software Software with 5 years of experience in Development. Skilled in C,pyton,mysql etc.... Passionate about working to your company, I thrive in to the company . I am seeking an opportunity to leverage my expertise in development to contribute to company’s goals or mission."</p>
+</section>
+<section id="experience">
+<h2>Experience</h2>
+<ul id="experience-list">
+<li>Software Developer in TCS</li>
+<li>Software Developer in infosec company</li>
+</ul>
+</section>
+<section id="Skills">
+<h2>Skills</h2>
+<ul id="Skills">
+<li>Completed my C program in IIT BOMBAY</li>
+<li>Completed mysql in online course</li>
+<li>Completed my Python program in online course</li>
+</ul>
+</section>
+<section id="Intenship">
+<h2>Intenship</h2>
+<ul id="Intenship">
+<li>Completed my Intenship in BMW Company</li>
+<li>Completed my Intenship in Canon Company</li>
+</ul>
+</section> 
+<section id="Projects">
+<ul id="Projects">
+<h2>Projects</h2>
+<li>ACADEMIC FLOW</li>
+<li>SMART DISCOVERIES</li>
+</ul>
+</section>
+<section id="Language known">
+<h2>Language Known</h2>
+<ul id="Language known">
+<li>ENGLISH</li>
+<li>FRENCH</li>
+<li>GERMAN</li>
+</ul>
+</section>
+<section id="education">
+<h2>Education</h2>
+<ul id="education-list">
+<li>Completed my schooling in SVMHSS with a percentage of 85%.</li>
+<li>Bachelor of Engineering in CCE at SRI ESHWAR COLLEGE</li>
+<h2> DECLARATION</h2>
+<p>I declare that above details mentioned are in accordance with truth and fact as per my knowledge.</p> 
+<h2>THANK YOU</h2>
+</ul>
+</section>
+</div>
+</body>
+</html>
+
+		
